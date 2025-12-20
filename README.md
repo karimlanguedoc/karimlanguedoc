@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate developer with a keen interest in software development and open source contributions. I enjoy working on innovative projects and constantly strive to learn new technologies and improve my skills.
+I just really love building great software. But what really is... great software?  Lets talk about it. 
 
 ## Skills
 
