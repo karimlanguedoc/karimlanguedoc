@@ -28,9 +28,4 @@ Compete against others to see who can build the best parlay and take home a huge
 ## Contact Me
 
 - **Email**: [klanguedoc@proton.me](mailto:klanguedoc@proton.me)
-- **LinkedIn**: [Karim Languedoc](https://www.linkedin.com/in/karimlan/)
 - **Instagram**: [@karimlanguedoc](https://instagram.com/im.neverhome)
-
-Feel free to reach out if you want to collaborate on any project or just want to connect. I'm always open to discussing new ideas and opportunities.
-
-Thanks for stopping by!
