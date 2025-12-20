@@ -1,4 +1,4 @@
-# Hi there, I'm Karim Languedoc 👋
+# 👋🏾 I'm Karim
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karimlanguedoc&color=blue)
 
