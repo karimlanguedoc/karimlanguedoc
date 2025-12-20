@@ -8,9 +8,9 @@ I just really love building great software. But what really is... great software
 
 ## Skills
 
-- **Languages**: Python, JavaScript, Swift, Objective-C, Kotlin
+- **Languages**: Swift, SwiftUI, Objective-C, Kotlin
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, CI/CD, AWS
+- **Tools**: Git, XCode Cloud, Github Actions, AWS
 
 ## Projects
 
